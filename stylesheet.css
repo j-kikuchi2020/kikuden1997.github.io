@@ -1,3 +1,6 @@
+@media print, screen and (min-width: 640px) {
+
+
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
@@ -206,3 +209,5 @@ input,textarea{
 .footer-list li {
   padding-bottom: 20px;
 }
+  
+}/* ←CSSの一番最後に記述 */
