@@ -98,10 +98,12 @@ header {
 
 .header-left {
   float: left;
+ float: none;
 }
 
 .header-right {
   float: right;
+ float: none;
   background-color: rgba(255, 255, 255, 0.3);
   transition: all 0.5s;
 }
@@ -136,6 +138,7 @@ header {
 
 .lesson {
   float: left;
+ float: none;
   width: 25%;
 }
 
@@ -207,11 +210,13 @@ input,textarea{
 
 .footer-logo {
   float: left;
+ float: none;
   font-size: 32px;
 }
 
 .footer-list {
   float: right;
+ float: none;
 }
 
 .footer-list li {
