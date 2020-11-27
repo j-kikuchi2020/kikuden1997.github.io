@@ -17,11 +17,10 @@ a {
   padding: 180px 100px ;
   
   background-image: url(https://github.com/j-kikuchi2020/kikuden1997.github.io/raw/main/KEWlogo.jpeg);
-  background-image{
+  /*background-image{
     width:50%
-    }
-  /*background-size: cover;*/
-  
+    }*/
+  background-size: cover;
   
   color: white;
   text-align: center;
