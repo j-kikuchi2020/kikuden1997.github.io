@@ -1,3 +1,13 @@
+/* スマートフォン用CSS */
+@media screen and (max-width: 640px) {
+ 
+img{
+max-width: 100%;
+height: auto;
+width /***/:auto;
+}
+
+
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
