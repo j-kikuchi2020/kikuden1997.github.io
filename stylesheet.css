@@ -9,8 +9,8 @@ a {
 
 .container {
   width: 90%;
-  /*padding: 0 15px;
-  margin: 0 auto;*/
+  /*padding: 0 15px;*/
+  margin: 0 auto;
 }
 
 .top-wrapper {
@@ -178,7 +178,7 @@ input,textarea{
    width: 100%;
   margin-top:10px;
   margin-bottom:30px;
-  padding:20px;
+  
   font-size:18px;
   border:1px solid #dee7ec;
 }
@@ -193,7 +193,6 @@ input,textarea{
   background-color: #2f5167;
   color: #fff;
   height: 150px;
-  padding: 40px;
   width:100%:
 }
 
