@@ -18,13 +18,14 @@ a {
 }
 
 .container {
-  width: 1328px;
+  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding-top: 180px;
+  padding-bottom: 100px;
   background-image: url(https://github.com/j-kikuchi2020/kikuden1997.github.io/raw/main/KEWlogo.jpeg);
   background-size: cover;
   color: white;
@@ -183,7 +184,7 @@ header {
 /* inputとtextareaのCSSを指定してください */
 input,textarea{
   
-  width:400px;
+  width: 100%;
   margin-top:10px;
   margin-bottom:30px;
   padding:20px;
