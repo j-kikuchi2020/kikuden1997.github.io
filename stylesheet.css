@@ -172,7 +172,7 @@ header {
 
 /* inputとtextareaのCSSを指定してください */
 input,textarea{
-  
+  text-align: center;
   width:400px;
   margin-top:10px;
   margin-bottom:30px;
