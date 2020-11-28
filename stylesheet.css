@@ -7,6 +7,11 @@ a {
   text-decoration: none;
 }
 
+.center{
+	text-align: center;
+	margin :100px;
+}
+
 .container {
   width: 760px;
   padding: 0 15px;
@@ -14,7 +19,8 @@ a {
 }
 
 .top-wrapper {
-	padding: -20px 0 20px 0;
+	padding: 0px 0 20px 0;
+	
 	/*background-image: url(https://github.com/j-kikuchi2020/kikuden1997.github.io/raw/main/KEWlogo_03.jpg);
   background-image{
     width:50%
@@ -139,8 +145,8 @@ header {
 .lesson-icon p {
   position: absolute;
   top: 70px;
-	width: 105%;
-	font-size: 16px;
+	width: 100%;
+	font-size: 15px;
   color: white;
 }
 
@@ -148,7 +154,7 @@ header {
   width: 80%;
   display: inline-block;
   margin-top: 20px;
-  font-size: 16px;
+  font-size: 15px;
   color: #b3aeb5;
 }
 
@@ -158,12 +164,12 @@ header {
 
 .message-wrapper {
   border-bottom: 1px solid #eee;
-  padding-bottom: 80px;
+  padding-bottom: 100px;
   text-align: center;
 }
 
 .message {
-  padding: 15px 40px;
+  padding: 20px 40px;
   background-color: #5dca88;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
@@ -202,7 +208,7 @@ input,textarea{
 
 .footer-logo {
   float: left;
-  font-size: 30px;
+  font-size: 28px;
 }
 
 .footer-list {
