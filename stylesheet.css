@@ -8,21 +8,20 @@ a {
 }
 
 .container {
-  width: 1200px
+  width: 760px;
   padding: 0 15px;
   margin: 0 auto;
 }
 
 .top-wrapper {
-  padding: 180px 100px ;
-  
-  background-image: url(https://github.com/j-kikuchi2020/kikuden1997.github.io/raw/main/KEWlogo.jpeg);
-  /*background-image{
+	padding: -20px 0 20px 0;
+	/*background-image: url(https://github.com/j-kikuchi2020/kikuden1997.github.io/raw/main/KEWlogo_03.jpg);
+  background-image{
     width:50%
     }*/
-  background-size: cover;
-  
-  color: white;
+	background-size:cover;
+	
+  color: Black;
   text-align: center;
 }
 
@@ -37,7 +36,7 @@ a {
 }
 
 .btn-wrapper {
-  margin: 20px 0;
+  margin: 40px 0;
 }
 
 .btn-wrapper p {
@@ -58,7 +57,7 @@ a {
 }
 
 .btn {
-  padding: 8px 24px;
+  padding: 12px 24px;
   color: white;
   display: inline-block;
   opacity: 0.8;
@@ -139,8 +138,9 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 80px;
-  width: 100%;
+  top: 70px;
+	width: 105%;
+	font-size: 16px;
   color: white;
 }
 
@@ -148,7 +148,7 @@ header {
   width: 80%;
   display: inline-block;
   margin-top: 20px;
-  font-size: 12px;
+  font-size: 16px;
   color: #b3aeb5;
 }
 
@@ -178,12 +178,13 @@ header {
 /* inputとtextareaのCSSを指定してください */
 input,textarea{
   text-align: center;
-   width: 100%;
+	width:400px;
   margin-top:10px;
   margin-bottom:30px;
-  
+  padding:20px;
   font-size:18px;
   border:1px solid #dee7ec;
+
 }
 
 /* contact-submitのCSSを指定してください */
@@ -195,13 +196,13 @@ input,textarea{
 .footer {
   background-color: #2f5167;
   color: #fff;
-  height: 170px;
+  height: 140px;
   padding: 40px;
 }
 
 .footer-logo {
   float: left;
-  font-size: 32px;
+  font-size: 30px;
 }
 
 .footer-list {
