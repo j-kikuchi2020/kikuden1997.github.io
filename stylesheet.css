@@ -204,8 +204,8 @@ input,textarea{
 .footer {
   background-color: #2f5167;
   color: #fff;
-  height: 140px;
-  padding: 30px;
+  height: 160px;
+  padding-top: 20px;
 }
 
 .footer-logo {
