@@ -146,8 +146,9 @@ header {
 .lesson-icon p {
   position: absolute;
   top: 70px;
-	width: 100%;
-	font-size: 15px;
+  width: 100%;
+  font-size: 15px;
+  font-type: bold;
   color: white;
 }
 
@@ -187,7 +188,7 @@ input,textarea{
   text-align: center;
 	width:400px;
   margin-top:10px;
-  margin-bottom:30px;
+  margin-bottom:50px;
   padding:20px;
   font-size:18px;
   border:1px solid #dee7ec;
