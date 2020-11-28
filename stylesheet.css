@@ -11,6 +11,7 @@ a {
 	text-align: center;
 	margin-top :100px;
 	margin-bottom :40px;
+}
 
 .container {
   width: 860px;
@@ -111,7 +112,7 @@ header {
 
 .header-right a {
   line-height: 65px;
-  padding: 0 25px;
+  padding: 0 20px;
   color: white;
   display: block;
 }
