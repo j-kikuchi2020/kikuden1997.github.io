@@ -14,7 +14,7 @@ a {
 }
 
 .container {
-  width: 830px;
+  width: 860px;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -218,7 +218,7 @@ input,textarea{
 }
 
 .footer-list li {
-font-size: 15px;
+font-size: 10px;
   padding-bottom: 40px;
 }
  
